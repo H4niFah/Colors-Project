@@ -1,0 +1,27 @@
+p{
+    color: #374375;
+}
+.cloud{
+    color: #fffcf5;
+}
+#id-selector-demo{
+    color: #babde2;
+}
+p[value="4"]{
+    color: #895159;
+}
+.peach{
+    color: #dfaea1;
+}
+*{
+    text-align: left;
+    background-color: black;
+    
+}
+h1,h2{
+    color: white;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
